@@ -13,6 +13,7 @@ Duration : 4 Weeks
 Mentor : Neela Santosh
 
 Descrpition of the task
+
 A data pipeline for preprocessing, transformation, and loading is a structured workflow that prepares raw data for analysis or machine learning. In real-world scenarios, data is often incomplete, inconsistent, or unstructured, making it unsuitable for direct use. This pipeline ensures that data is cleaned, standardized, and converted into a usable format. Tools like Pandas and scikit-learn are widely used because they provide efficient, scalable, and reusable components for building such pipelines.
 
 The first stage of the pipeline is data preprocessing. This step involves loading the dataset and handling issues such as missing values, duplicate records, and incorrect data types. Using Pandas, datasets can be read from various sources like CSV files, databases, or APIs. Once loaded, the data is inspected to understand its structure and quality. Missing values are a common issue and can be handled by either removing affected rows or filling them with statistical measures such as mean, median, or mode. Preprocessing also includes converting categorical data into a consistent format and ensuring numerical columns are properly typed. This stage is crucial because poor-quality input data can lead to inaccurate results later in the pipeline.
