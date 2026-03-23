@@ -1,10 +1,15 @@
 # data-pipeline-project
 
 company -name: CodeTech It solutions
+
 Name: Tarun IS
+
 Intern Id: CTIS6775
+
 Domain: Data Science
+
 Duration : 4 Weeks
+
 Mentor : Neela Santosh
 
 Descrpition of the task
