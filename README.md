@@ -22,3 +22,5 @@ One of the key advantages of using scikit-learn pipelines is modularity. Each st
 In summary, a data pipeline built with Pandas and scikit-learn provides a systematic approach to preparing data for analysis. It improves data quality, ensures consistency, and enhances model performance. Such pipelines are widely used in applications like customer analytics, recommendation systems, fraud detection, and predictive modeling, making them an essential skill in data science and data engineering.
 
 output of the task: 
+
+<img width="1060" height="670" alt="Image" src="https://github.com/user-attachments/assets/95f78acb-3adf-4fb9-873e-3a7c7872e743" />
